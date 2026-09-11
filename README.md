@@ -76,3 +76,12 @@ secure-web-login-hardening/
 │   └── user_credential_check.php
 └── docs/
     └── security-analysis.md
+## Explore the Project
+
+- [View the Security Analysis](docs/security-analysis.md)
+- [View the Secure Login Form](src/login.html)
+- [View the PHP Authentication Backend](src/user_credential_check.php)
+
+## Portfolio Highlights
+
+This project demonstrates hands-on application of secure coding and web application security concepts, including SQL injection prevention, prepared statements, password verification, session security, Content Security Policy, secure credential transmission, and secret-management practices.
